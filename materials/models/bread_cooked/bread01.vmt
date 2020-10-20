@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/Bread_cooked/Bread01"
+	"$surfaceprop" "wood"
+
+}

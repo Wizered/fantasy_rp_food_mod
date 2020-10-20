@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\prop\junk\pumpkin_01"
+        "$bumpmap" "models\prop\junk\pumpkin_01_n"
+	"$surfaceprop" "wood"
+      "$alphatest" "1"
+        "$model" 1
+}

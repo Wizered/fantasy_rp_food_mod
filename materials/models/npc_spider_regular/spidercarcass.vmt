@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$model" 1
+	"$basetexture" "models/NPC_Spider_Regular/SpiderCarcass"
+	"$bumpmap" "models/NPC_Spider_Regular/SpiderCarcass_normal"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "flesh"
+	"$normalmapalphaenvmapmask" 1
+	
+	"$envmapcontrast" 0.8
+	"$envmapsaturation" 0.5
+	"$envmaptint" "[0.8 0.85 0.8]"
+
+	"$Freezefxenvmap" "FX/Freeze/freeze_env_cubemap"
+	"$Freezefxenvmapmask" "FX/Freeze/Freeze_envmapmask"
+	"$Freezemaptint" "[1 1 1]"
+	"$Freezefxmap" "models/Npc_Spider_Regular/Spider_Regular_freezegradient"
+
+	"vertexlitgeneric_HDR_dx9"
+
+	{
+
+               "$envmaptint" "[.5 .5 .5]"
+
+	}
+
+}

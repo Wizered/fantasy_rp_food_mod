@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/Bread_cooked/Bread_under01"
+	"$surfaceprop" "flesh"
+
+}

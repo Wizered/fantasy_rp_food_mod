@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models\objects\tomb_ship\pottery_02"
+	"$surfaceprop" "pottery"
+	"$model" 1
+}

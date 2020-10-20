@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+
+{
+	"$baseTexture"	"models/furniture/mn/mn_pitcher"
+	"$bumpmap" "models/furniture/mn/mn_pitcher_normal"
+
+	"$surfaceprop" "metal"	
+
+	"$alphatest" 1
+
+	"$envmap" "env_cubemap"
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 0.5
+	"$envmapsaturation" 0.25
+	"$envmaptint" "[0.9 0.9 0.4]"
+
+	"vertexlitgeneric_HDR_dx9"
+
+	{
+               "$envmaptint" "[0.45 0.45 0.2]"
+	}
+}

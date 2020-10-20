@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/ribs/ribs_cooked"
+	"$surfaceprop" "flesh"
+	"$bumpmap" "models/ribs/ribs_normal"
+
+//	"$normalmapalphaenvmapmask" 1
+//	"$envmapcontrast" 1
+//	"$envmapsaturation" 1
+
+
+//	"$envmap" "env_cubemap"
+
+}

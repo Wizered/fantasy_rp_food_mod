@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/doll/wickerdoll"
+	"$surfaceprop" "stone"
+	"$bumpmap" "models/doll/wickerdoll_normal"
+
+
+}
