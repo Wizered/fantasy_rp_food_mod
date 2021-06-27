@@ -7,7 +7,7 @@ ENT.AdminSpawnable	= true
 ENT.Category 		= "FantasyRP Food v1.1"
 
 ENT.Base		= "eoti_food_base"
-ENT.PrintName 	= "Banana Bunch"
+ENT.PrintName 	= "Banana Butt"
 ENT.WorldModel  = "models/food/bananas/banana_regime.mdl"
 ENT.Charges	 	= 4
 ENT.IsFood 		= true
